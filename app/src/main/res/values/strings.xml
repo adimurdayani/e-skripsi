@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-Skripsi</string>
+    <string-array name="kelamin">
+        <item>Perempuan</item>
+        <item>Laki-Laki</item>
+    </string-array>
+</resources>
